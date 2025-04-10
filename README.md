@@ -1,1 +1,1 @@
-# Retinext
+# SlimNet
